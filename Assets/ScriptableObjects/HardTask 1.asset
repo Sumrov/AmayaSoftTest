@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170cddce5cc625542b0cc4b247f732ae, type: 3}
+  m_Name: HardTask 1
+  m_EditorClassIdentifier: 
+  Key: 3
+  Discription: Find F
+  Options:
+  - {fileID: 3270655726746431581, guid: 9c743d8cf4d8f864287555f1606489b5, type: 3}
+  - {fileID: 3295844289267200183, guid: d9774afc576ead042a2824aa90c57824, type: 3}
+  - {fileID: 3234300448368640894, guid: d9774afc576ead042a2824aa90c57824, type: 3}
+  - {fileID: -6426668015567183463, guid: d9774afc576ead042a2824aa90c57824, type: 3}
+  - {fileID: -1127063002332224934, guid: d9774afc576ead042a2824aa90c57824, type: 3}
+  - {fileID: -2756605603065543306, guid: d9774afc576ead042a2824aa90c57824, type: 3}
+  - {fileID: -9165466868132007793, guid: 9c743d8cf4d8f864287555f1606489b5, type: 3}
+  - {fileID: -6342808464625005154, guid: 9c743d8cf4d8f864287555f1606489b5, type: 3}
+  - {fileID: 4461586319009975920, guid: 9c743d8cf4d8f864287555f1606489b5, type: 3}
